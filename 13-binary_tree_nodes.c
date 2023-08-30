@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_node - measure the nodes
+ * binary_tree_nodes - measure the nodes
  * @tree: a pointer to the node
  * Return: the nth of nodes
 */
